@@ -108,7 +108,7 @@ To send back the ONFT-wrapped tokens on destination chain to source chain, the p
 - [function estimateSendFee()](https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/onft721/interfaces/IONFT721Core.sol#L70)
 - [function sendFrom()](https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/onft721/interfaces/IONFT721Core.sol#L36)
 - [@layerzerolabs/scan-client](https://www.npmjs.com/package/@layerzerolabs/scan-client#example-usage)
-- [LayerZero Endpoint V1](https://docs.layerzero.network/v1/developers/technical-reference/mainnet/mainnet-addresses)
+- [LayerZero Endpoint V1](https://docs.layerzero.network/v1/developers/evm/technical-reference/mainnet/mainnet-addresses)
 - [LayerZero explorer](https://testnet.layerzeroscan.com/)
 
 ## Installation
